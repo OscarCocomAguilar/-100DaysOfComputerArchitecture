@@ -1,0 +1,2 @@
+Day 0:
+I started reading Microproccesor Tutorial's book (Page 11/101).
