@@ -1,0 +1,3 @@
+Day 4:
+I watched the next video about Assembly Language & Computer Achitecture from the MIT OpenCourseWare.
+https://www.youtube.com/watch?v=L1ung0wil9Y
