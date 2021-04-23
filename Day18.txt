@@ -1,0 +1,3 @@
+Day 18:
+I watched the next video about how to do data science from a data engineers perspective
+https://www.youtube.com/watch?v=yp_cc4R0mGQ&t=17s
