@@ -1,0 +1,3 @@
+Day 20:
+I coded the third challenge in BOX-256 after an hour and twenty.
+I analyzed the next challenge and figure out that only with 3-4 lines of code I can make it.
