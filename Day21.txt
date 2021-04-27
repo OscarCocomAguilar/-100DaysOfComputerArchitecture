@@ -1,0 +1,3 @@
+Day 21:
+I made a videocall with a friend to explain him how BOX-256 works (the commands, how to do an algorithm, etc).
+I helped him to do the first challenge, I only explained the logic and he understood me. 
