@@ -1,0 +1,3 @@
+Day 22:
+I coded the fourth challenge in this challenge.
+As my first solution idea, I was right and only added like 3-4 lines more to make my code run right.
