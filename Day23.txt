@@ -1,0 +1,3 @@
+Day 23:
+I coded the challenge number six on the web.
+I used a new function, THR, so it can read the code in 2 lines at time.
