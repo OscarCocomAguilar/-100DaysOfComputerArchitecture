@@ -1,0 +1,3 @@
+Day 24:
+I coded the seventh challenge. "Carpet"
+It was most difficult than usual, I used a lot of the memory in this case just to make my code print faster.
