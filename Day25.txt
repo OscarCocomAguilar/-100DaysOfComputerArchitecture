@@ -1,0 +1,3 @@
+Day 25:
+I coded the following challenge: "Carpet II".
+I felt it most easier than the challenge before, just use 2 blocks of code and inverted the second one.
