@@ -1,0 +1,3 @@
+Day 26:
+I coded the Sierpinski's challenge.
+It was most easier than I thought, just made a mini equilateral triangule and moved it all around the square.
