@@ -1,0 +1,3 @@
+Day 27:
+I coded the Sierpinski II's challenge, the number ten.
+I took the code of the challenge before, changed the color of PIX and made other thread just to print the blank spaces of the challenge before.
