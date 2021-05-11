@@ -1,0 +1,3 @@
+Day 28:
+I code the eleventh challenge, Smiley Face.
+When I was creating the solution, I saw that is simetric in the bottom that above, so I made a line that first add and then subtract.
